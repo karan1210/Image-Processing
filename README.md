@@ -7,3 +7,7 @@ Lecture 2: https://youtu.be/PRr-huv8Vng  (Flip the iamge, enable laptop webcam, 
 Lecture 3: https://youtu.be/opii_HRx1bg (What is Binary image?)
 
 Lecture 4: https://youtu.be/w38C_aqcpa8 (Add, Sub and Mul image)
+
+Lecture 5: https://youtu.be/fTBewkCRfVc  (Gray transformation, Negative Transformation (Theory + practicals)
+
+Lecture 6: https://youtu.be/dVRq50qhyp0 (Gray transformation, Log Transformation (Theory + practicals)
